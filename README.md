@@ -9,5 +9,5 @@ Below is a list of relevant tools and frameworks I have experience with:
 ⚓ Containers & Orchestration (Docker, Kubernetes, Rancher, AWS EKS, AWS ECS)\
 🔭 Monitoring & Observability (Datadog, CloudWatch, OpsGenie, Sentry, PagerDuty)\
 🪣 Source Code Management (GitHub, BitBucket)\
-🏢 Databases (DynamoDB, SQL)\
+🛢️ Databases (DynamoDB, SQL)\
 🌐 Reverse Proxies & Web Servers (CloudFlare, Nginx, IIS, AWS EC2)
