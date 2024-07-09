@@ -2,11 +2,12 @@
 
 Below is a list of relevant tools and frameworks I have experience with:
 
-☁️ Cloud Platforms (AWS)\
-🏗️ Infrastructure as Code (Terraform, AWS CloudFormation)\
-⚓ Containers & Orchestration (Docker, Kubernetes, Rancher, AWS EKS, AWS ECS)\
-♾️ CI / CD (CircleCI, Drone, TeamCity, Spinnaker, Argo CD)\
-🌐 Reverse Proxies & Web Servers (CloudFlare, Nginx, IIS, AWS EC2)\
-🛢️ Databases (DynamoDB, SQL)\
-📜 Scripting (Bash, Node.js, Powershell)\
-🔭 Monitoring & Observability (Datadog, CloudWatch, OpsGenie, Sentry, PagerDuty)
+☁️ Cloud Platforms (AWS)
+🏗️ Infrastructure as Code (Terraform, AWS CloudFormation)
+⚓ Containers & Orchestration (Kubernetes, AWS EKS, AWS ECS, Docker, Rancher)
+♾️ CI / CD (Argo CD, CircleCI, Drone, TeamCity, Spinnaker)
+📔 Web Servers (Linux, Microsoft IIS, AWS EC2)
+🌐 DNS & Reverse Proxies (CloudFlare, Nginx, Route 53)
+🛢️ Databases (DynamoDB, MySQL. PostgreSQL)
+📜 Scripting (Bash, Node.js, Powershell)
+🔭 Monitoring & Observability (Datadog, CloudWatch, OpsGenie, Sentry, PagerDuty, GaurdDuty)
