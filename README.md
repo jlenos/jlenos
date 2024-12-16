@@ -1,4 +1,4 @@
-👋 Hello! I'm **Josiah**, and I work as a Senior Site Reliability Engineer at Nintex. I enjoy solving complex problems using DevOps tools and frameworks, while at the same time looking for opportunities on how to improve processes and optimize tooling. The work I do helps to ensure the reliability and performance of web applications and services, both to external users and internal employees.
+👋 Hello! I'm **Josiah**, and I work as a Senior Site Reliability Engineer at Nintex.
 
 Below is a list of relevant tools and frameworks I have experience with:
 
@@ -10,4 +10,4 @@ Below is a list of relevant tools and frameworks I have experience with:
 🌐 DNS & Reverse Proxies (CloudFlare, Nginx, Route 53)\
 🛢️ Databases (DynamoDB, MySQL, PostgreSQL)\
 📜 Scripting (Bash, Node.js, Powershell)\
-🔭 Monitoring & Observability (Datadog, CloudWatch, OpsGenie, Sentry, PagerDuty, GaurdDuty)
+🔭 Observability (Datadog, CloudWatch, OpsGenie, Sentry, PagerDuty, GaurdDuty)
